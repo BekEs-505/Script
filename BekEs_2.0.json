@@ -74,14 +74,10 @@
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
-                }
+               }
               ],
             "appPermissions": {}
-    {
-
-      "appPermissions": {
-        
-      }
-    },
+        }
+    ],
     "news": []
   }
