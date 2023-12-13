@@ -79,5 +79,32 @@
             "appPermissions": {}
         }
     ],
+ "apps": [
+    {
+      "name": "Helium",
+      "bundleIdentifier": "com.leemin.helium",
+      "developerName": "Helium",
+      "subtitle": "Adding some additions to the upper bar, such as time, charging speed, etc.",
+      "localizedDescription": "Adding some additions to the upper bar, such as time, charging speed, etc.",
+      "iconURL": "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png",
+      "tintColor": "#F54F32",
+      "screenshotURLs": [
+        "https://check0ver.site/wp-content/uploads/2023/11/communityIcon_fc3cauzwyep91.png"
+      ],
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2023-12-13",
+          "localizedDescription": "Adding some additions to the upper bar, such as time, charging speed, etc.",
+          "downloadURL": "https://check0ver.site/wp-content/uploads/2023/12/Helium_v2.0_beta_1.tipa",
+          "size": 106000,
+          "minOSVersion": "14.0",
+          "maxOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        
+      }
+    },
     "news": []
   }
