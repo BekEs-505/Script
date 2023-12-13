@@ -11,7 +11,7 @@
         {
             "name": "Flappy Bird",
             "bundleIdentifier": "org.brandonplank.flappybird",
-            "developerName": "BekEs Plank",
+            "developerName": "BekEs",
             "subtitle": "1:1 Flappy Bird clone in Swift.",
             "localizedDescription": "Flappy Bird, rewritten and remastered for modern devices!",
             "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/FlappyBird.png",
@@ -75,6 +75,28 @@
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
                }
+              ],
+  "appPermissions": {}
+        },
+        {
+            "name": "ModMyIPA",
+            "bundleIdentifier": "com.powen.ModMyIPA",
+            "developerName": "BekEs",
+            "subtitle": "An ordinary torrent client for iOS with Files app support.",
+            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
+            "iconURL": "https://raw.githubusercontent.com/XITRIX/iTorrent/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.0.2",
+                  "date": "2023-07-08",
+                  "localizedDescription": "Release 1.0.2",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "size": 16400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+              }
               ],
             "appPermissions": {}
         }
