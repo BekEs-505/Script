@@ -77,9 +77,6 @@
                 }
               ],
             "appPermissions": {}
-        }
-    ],
- "apps": [
     {
       "name": "Helium",
       "bundleIdentifier": "com.leemin.helium",
