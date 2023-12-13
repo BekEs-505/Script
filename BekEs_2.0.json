@@ -62,7 +62,7 @@
             "developerName": "XITRIX // nonamedude",
             "subtitle": "An ordinary torrent client for iOS with Files app support.",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/XITRIX/iTorrent/master/iTorrent/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/screenshots/ru.nonamedude.iTorrent/itorrent_1.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -70,7 +70,7 @@
                   "version": "1.9",
                   "date": "2023-07-08",
                   "localizedDescription": "Release 1.9",
-                  "downloadURL": "https://github.com/Bonnie39/trollapps-repo/raw/main/ipa/iTorrent-1.9.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/iTorrent-1.9.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
