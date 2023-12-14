@@ -238,7 +238,7 @@
             "developerName": "BekEs",
             "subtitle": "تطبيق وظيفته : سحب تطبيقات جهازك الى صيغة IPA وايضا التطبيق يسمح لك بعمل نسخة احتياطية للتطبيقات وحفظها واسترجاعها في اي وقت .",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/AppIndex.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -246,7 +246,7 @@
                   "version": "1.0",
                   "date": "2023-07-08",
                   "localizedDescription": "تطبيق وظيفته : سحب تطبيقات جهازك الى صيغة IPA وايضا التطبيق يسمح لك بعمل نسخة احتياطية للتطبيقات وحفظها واسترجاعها في اي وقت .",
-                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/AppIndexTrollStore.tipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
