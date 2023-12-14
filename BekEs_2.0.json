@@ -123,6 +123,28 @@
                 }
               ],
  "appPermissions": {}
+        },
+        {
+            "name": "AppsDump2",
+            "bundleIdentifier": "cn.bswbw.AppsDump",
+            "developerName": "BekEs",
+            "subtitle": "استخراج التطبيقات المثبته عندك على الجهاز وسحبها بضيغة ipa",
+            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.0.2",
+                  "date": "2023-07-08",
+                  "localizedDescription": "استخراج التطبيقات المثبته عندك على الجهاز وسحبها بضيغة ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "size": 16400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+              }
+              ],
+ "appPermissions": {}
         }
     ],
     "news": []
