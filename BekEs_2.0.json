@@ -126,7 +126,7 @@
         },
         {
             "name": "AppsDump2",
-            "bundleIdentifier": "cn.bswbw.AppsDump",
+            "bundleIdentifier": "com.bswbw.AppsDump",
             "developerName": "BekEs",
             "subtitle": "استخراج التطبيقات المثبته عندك على الجهاز وسحبها بضيغة ipa",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
@@ -139,6 +139,28 @@
                   "date": "2023-07-08",
                   "localizedDescription": "استخراج التطبيقات المثبته عندك على الجهاز وسحبها بضيغة ipa",
                   "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/AppDump2-2.0.3.tipa",
+                  "size": 16400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+              }
+              ],
+ "appPermissions": {}
+        },
+        {
+            "name": "Appstore++",
+            "bundleIdentifier": "com.cokepokes.AppStorePlus",
+            "developerName": "BekEs",
+            "subtitle": "الرجوع لاصدار اقدم لاي تطبيق مثبت لديك",
+            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/Appstore.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.0.2",
+                  "date": "2023-07-08",
+                  "localizedDescription": "الرجوع لاصدار اقدم لاي تطبيق مثبت لديك",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/Appstore.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
