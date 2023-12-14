@@ -102,7 +102,7 @@
         },
         {
             "name": "TrollDecrypt",
-            "bundleIdentifier": "com.fiore.trolldecrypt",
+            "bundleIdentifier": "com.fiore.trolldecryptipa",
             "developerName": "BekEs",
             "subtitle": "تطبيق يمكنك من خلاله استخراج ملفات  التطبيق كامله و الدايلب",
             "localizedDescription": "TrollDecrypt rewritten and remastered for modern devices!",
