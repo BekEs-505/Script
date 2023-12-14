@@ -82,7 +82,7 @@
             "name": "ModMyIPA",
             "bundleIdentifier": "com.powen.ModMyIPA",
             "developerName": "BekEs",
-            "subtitle": "An ordinary torrent client for iOS with Files app support.",
+            "subtitle": "التطبيق خاص لتكرار التطبيقات",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
             "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
             "tintColor": "#F54F32",
@@ -91,7 +91,7 @@
                 {
                   "version": "1.0.2",
                   "date": "2023-07-08",
-                  "localizedDescription": "Release 1.0.2",
+                  "localizedDescription": "التطبيق خاص لتكرار التطبيقات",
                   "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
@@ -130,7 +130,7 @@
             "developerName": "BekEs",
             "subtitle": "استخراج التطبيقات المثبته عندك على الجهاز وسحبها بضيغة ipa",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/AppsDump2.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -138,7 +138,7 @@
                   "version": "1.0.2",
                   "date": "2023-07-08",
                   "localizedDescription": "استخراج التطبيقات المثبته عندك على الجهاز وسحبها بضيغة ipa",
-                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/AppDump2-2.0.3.tipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
