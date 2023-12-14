@@ -98,7 +98,8 @@
                   "maxOSVersion": "17.0"
               }
               ], 
-    "apps": [
+  "appPermissions": {}
+        },
         {
             "name": "TrollDecrypt",
             "bundleIdentifier": "com.fiore.trolldecrypt",
