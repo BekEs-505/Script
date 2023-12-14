@@ -172,7 +172,7 @@
             "developerName": "BekEs",
             "subtitle": "تطبيق وظيفته : تركيب ثيمات على جهازك .",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/BlizzardBoard.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -180,6 +180,28 @@
                   "version": "1.1",
                   "date": "2023-07-08",
                   "localizedDescription": "تطبيق وظيفته : تركيب ثيمات على جهازك .",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/BlizzardBoard.ipa",
+                  "size": 16400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+              }
+              ],
+ "appPermissions": {}
+        },
+        {
+            "name": "DynamicCow",
+            "bundleIdentifier": "com.matteozappia.DynamicCowTS",
+            "developerName": "BekEs",
+            "subtitle": "تطبيق وظيفته : تفعيل الجزيرة الدينامكية على الاجهزة التي لاتدعمها .",
+            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.1",
+                  "date": "2023-07-08",
+                  "localizedDescription": "تطبيق وظيفته : تفعيل الجزيرة الدينامكية على الاجهزة التي لاتدعمها .",
                   "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
