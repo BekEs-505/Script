@@ -97,8 +97,33 @@
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
               }
+              ], 
+    "apps": [
+        {
+            "name": "TrollDecrypt",
+            "bundleIdentifier": "com.fiore.trolldecrypt",
+            "developerName": "BekEs",
+            "subtitle": "تطبيق يمكنك من خلاله استخراج ملفات  التطبيق كامله و الدايلب",
+            "localizedDescription": "Flappy Bird, rewritten and remastered for modern devices!",
+            "iconURL": "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/icons/FlappyBird.png",
+            "tintColor": "#F54F32",
+            "screenshots": [
+                "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/screenshots/org.brandonplank.flappybird/flappybird_1.png",
+                "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/screenshots/org.brandonplank.flappybird/flappybird_2.png",
+                "https://raw.githubusercontent.com/Bonnie39/trollapps-repo/main/screenshots/org.brandonplank.flappybird/flappybird_3.png"
+            ],
+            "versions": [
+                {
+                  "version": "1.1",
+                  "date": "2022-06-14",
+                  "localizedDescription": "Release 1.1",
+                  "downloadURL": "https://github.com/brandonplank/flappybird/releases/download/4.3/org.brandonplank.flappybird.ipa",
+                  "size": 2000000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+                }
               ],
-            "appPermissions": {}
+ "appPermissions": {}
         }
     ],
     "news": []
