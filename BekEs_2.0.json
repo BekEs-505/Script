@@ -209,6 +209,28 @@
               }
               ],
  "appPermissions": {}
+        },
+        {
+            "name": "AirTroller",
+            "bundleIdentifier": "net.sourceloc.AirTroller",
+            "developerName": "BekEs",
+            "subtitle": "تطبيق وظيفته : ارسال AirDrop بشكل عشوائي لاي جهاز قريب منك .",
+            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.1.1",
+                  "date": "2023-07-08",
+                  "localizedDescription": "تطبيق وظيفته : ارسال AirDrop بشكل عشوائي لاي جهاز قريب منك .",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "size": 16400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+              }
+              ],
+ "appPermissions": {}
         }
     ],
     "news": []
