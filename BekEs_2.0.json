@@ -326,7 +326,7 @@
             "developerName": "BekEs",
             "subtitle": "تطبيق وظيفته : معرفة بندل التطبيقات والبحث عنها .",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/Bundlr.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -334,7 +334,7 @@
                   "version": "1.0",
                   "date": "2023-07-08",
                   "localizedDescription": "تطبيق وظيفته : معرفة بندل التطبيقات والبحث عنها .",
-                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/Bundlr.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
@@ -348,7 +348,7 @@
             "developerName": "BekEs",
             "subtitle": "تطبيق وظيفته : تحويل ملفات deb الى ipa ( يتم تحويل التطبيقات فقط ) .",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/DebToIPA.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -356,7 +356,7 @@
                   "version": "1.0.2",
                   "date": "2023-07-08",
                   "localizedDescription": "تطبيق وظيفته : تحويل ملفات deb الى ipa ( يتم تحويل التطبيقات فقط ) .",
-                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/DebToIPA.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
