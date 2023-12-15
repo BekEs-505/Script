@@ -363,6 +363,50 @@
               }
               ],
  "appPermissions": {}
+        },
+        {
+            "name": "Duplicator",
+            "bundleIdentifier": "com.dpixel.DPixelDuplicator",
+            "developerName": "BekEs",
+            "subtitle": "تطبيق وظيفته : تكرار التطبيقات .",
+            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.0.2",
+                  "date": "2023-07-08",
+                  "localizedDescription": "تطبيق وظيفته : تكرار التطبيقات .",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "size": 16400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+              }
+              ],
+ "appPermissions": {}
+        },
+        {
+            "name": "Derootifier",
+            "bundleIdentifier": "org.haxi0.Derootifier",
+            "developerName": "BekEs",
+            "subtitle": "تطبيق وظيفته : تحويل الادوات الى روثليس .",
+            "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "tintColor": "#F54F32",
+            "screenshots": [],
+            "versions": [
+                {
+                  "version": "1.3",
+                  "date": "2023-07-08",
+                  "localizedDescription": "تطبيق وظيفته : تحويل الادوات الى روثليس .",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "size": 16400000,
+                  "minOSVersion": "14.0",
+                  "maxOSVersion": "17.0"
+              }
+              ],
+ "appPermissions": {}
         }
     ],
     "news": []
