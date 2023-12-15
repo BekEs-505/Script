@@ -282,7 +282,7 @@
             "developerName": "BekEs",
             "subtitle": "تطبيق وظيفته : التعديل على ملفات Asset وتغير صور الايقونات .",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/Aphrodite.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -290,7 +290,7 @@
                   "version": "0.6.12",
                   "date": "2023-07-08",
                   "localizedDescription": "تطبيق وظيفته : التعديل على ملفات Asset وتغير صور الايقونات .",
-                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/Aphrodite.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
@@ -304,7 +304,7 @@
             "developerName": "BekEs",
             "subtitle": "تطبيق وظيفته : اظهار مدة التشغيل لكل تطبيقات .",
             "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.",
-            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/ModMyIPA.png",
+            "iconURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/icons/BatteryLife.png",
             "tintColor": "#F54F32",
             "screenshots": [],
             "versions": [
@@ -312,7 +312,7 @@
                   "version": "3.2.1",
                   "date": "2023-07-08",
                   "localizedDescription": "تطبيق وظيفته : اظهار مدة التشغيل لكل تطبيقات .",
-                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/ModMyIPA-1.0.2.ipa",
+                  "downloadURL": "https://raw.githubusercontent.com/BekEs-505/TrollApps/main/ipa/BatteryLife_TS.ipa",
                   "size": 16400000,
                   "minOSVersion": "14.0",
                   "maxOSVersion": "17.0"
