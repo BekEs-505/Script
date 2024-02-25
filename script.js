@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         eiv
+// @name         BekEs Script
 // @description  A simple script to get eruda running on via browser
-// @namespace    https://github.com/qxb3/eiv
+// @namespace    https://github.com/BekEs-505/Script
 // @version      1.0.1
 // @run-at       document-start
 // @match        *
